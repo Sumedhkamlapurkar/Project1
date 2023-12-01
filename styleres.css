@@ -1,0 +1,56 @@
+.resume{
+    width: 60%;
+    padding: 40px;
+    margin: auto;
+    border: 1px solid black;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+    
+
+.title{
+    font-size: 18px;
+    font-weight: 700;
+    text-decoration: underline;
+    color: rgb(66, 66, 171);
+    margin-top: 20px;
+}
+
+.content{
+    line-height: 1.25;
+}
+
+.contact {
+    line-height: 1.5;
+}
+
+.career-content p{
+    text-indent: 50px;
+    line-height: 1.25;
+}
+
+.skills li{
+    list-style-type: none;
+   
+}
+
+table,td,th{
+    border: 1.5px solid black;
+    text-align: center;
+    line-height: 1.5;
+ 
+}
+table{
+    margin-top: 25px;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.details ul li {
+list-style-type: none;
+
+
+}
+
+.name{
+    text-align: right;
+}
